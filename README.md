@@ -56,20 +56,6 @@ The project demonstrates several core Java OOP concepts:
 * **Scanner**
 * Object-Oriented Programming
 
-## Project Structure
-
-```text
-Pakistan Smart Tour Guide
-│
-├── Main.java
-├── GuideSystem.java
-├── City.java
-├── Location.java
-├── Hotel.java
-├── Restaurant.java
-└── TripPlanner.java
-```
-
 ## How It Works
 
 1. The user starts the application through `Main.java`.
