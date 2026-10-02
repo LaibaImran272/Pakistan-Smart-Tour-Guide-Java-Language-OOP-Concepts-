@@ -99,8 +99,3 @@ Possible future enhancements include:
 * Adding user accounts and saved trip plans
 * Improving the recommendation system
 
-## Author
-
-**Laiba Imran**
-
-A Java project demonstrating object-oriented programming, collection handling, user input, and practical travel-planning logic.
